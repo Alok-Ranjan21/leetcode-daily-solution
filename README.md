@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
