@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Tree
 |  |
@@ -55,12 +57,18 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
