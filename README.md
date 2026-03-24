@@ -25,6 +25,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0196-delete-duplicate-emails) |
 ## Math
 |  |
