@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0202-happy-number) |
 ## Recursion
 |  |
