@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0205-isomorphic-strings) |
 ## Linked List
@@ -27,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
