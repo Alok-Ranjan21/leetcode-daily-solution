@@ -71,6 +71,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 ## Union-Find
 |  |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,4 +130,16 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
