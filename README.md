@@ -15,6 +15,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
