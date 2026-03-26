@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
@@ -77,6 +78,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
