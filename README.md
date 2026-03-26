@@ -16,6 +16,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0206-reverse-linked-list) |
@@ -143,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bucket Sort
