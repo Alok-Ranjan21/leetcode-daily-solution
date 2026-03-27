@@ -10,6 +10,7 @@
 | [0202-happy-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0213-house-robber-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -151,6 +153,7 @@
 | [0147-insertion-sort-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 ## Bucket Sort
 |  |
 | ------- |
