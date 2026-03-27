@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -25,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
