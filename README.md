@@ -59,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0216-combination-sum-iii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
@@ -88,12 +90,14 @@
 | [0198-house-robber](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0213-house-robber-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
@@ -134,6 +138,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
+| [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +158,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
