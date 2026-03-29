@@ -61,6 +61,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
 | ------- |
