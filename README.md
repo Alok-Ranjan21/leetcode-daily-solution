@@ -7,6 +7,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0205-isomorphic-strings) |
@@ -79,6 +81,7 @@
 | [0130-surrounded-regions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0198-house-robber) |
@@ -100,6 +103,7 @@
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0213-house-robber-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -246,6 +250,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
@@ -278,4 +283,8 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
