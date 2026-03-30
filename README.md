@@ -14,6 +14,7 @@
 | [0205-isomorphic-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bucket Sort
 |  |
 | ------- |
