@@ -71,6 +71,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0134-gas-station) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
