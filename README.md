@@ -95,6 +95,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
@@ -110,6 +111,7 @@
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Matrix
@@ -118,6 +120,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
