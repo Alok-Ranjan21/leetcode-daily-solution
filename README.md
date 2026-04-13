@@ -225,6 +225,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 ## Prefix Sum
 |  |
@@ -274,6 +275,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -365,4 +367,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0187-repeated-dna-sequences) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
