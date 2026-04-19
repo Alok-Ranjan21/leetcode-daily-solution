@@ -47,6 +47,7 @@
 | [0165-compare-version-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0202-happy-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Database
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
@@ -276,6 +278,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 ## Design
 |  |
