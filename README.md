@@ -126,6 +126,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
@@ -249,6 +250,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
