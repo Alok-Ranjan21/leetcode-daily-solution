@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -19,14 +19,15 @@
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
+| [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -39,8 +40,8 @@
 | [0203-remove-linked-list-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -50,9 +51,10 @@
 | [0189-rotate-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0202-happy-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0178-rank-scores) |
@@ -60,8 +62,8 @@
 | [0184-department-highest-salary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0196-delete-duplicate-emails) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0172-factorial-trailing-zeroes) |
@@ -73,14 +75,14 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0206-reverse-linked-list) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -101,8 +103,8 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -140,6 +142,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
@@ -154,8 +157,8 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
@@ -171,8 +174,8 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
@@ -187,8 +190,8 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -197,8 +200,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -213,8 +216,8 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0130-surrounded-regions) |
@@ -225,8 +228,8 @@
 | [0210-course-schedule-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0210-course-schedule-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -235,8 +238,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
@@ -244,15 +247,15 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0137-single-number-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -261,16 +264,16 @@
 | [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
@@ -278,8 +281,8 @@
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
@@ -290,26 +293,27 @@
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0164-maximum-gap) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
@@ -317,63 +321,63 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0204-count-primes) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0210-course-schedule-ii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -381,40 +385,40 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0216-combination-sum-iii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0223-rectangle-area](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0223-rectangle-area) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0187-repeated-dna-sequences) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
