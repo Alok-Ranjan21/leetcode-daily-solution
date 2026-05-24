@@ -135,6 +135,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
+| [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -174,6 +175,7 @@
 | [0213-house-robber-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
@@ -295,6 +297,7 @@
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
+| [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
