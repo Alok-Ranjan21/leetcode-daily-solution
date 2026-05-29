@@ -75,6 +75,7 @@
 | [0223-rectangle-area](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0223-rectangle-area) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -159,6 +160,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
