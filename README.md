@@ -55,6 +55,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -303,6 +305,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +343,7 @@
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
