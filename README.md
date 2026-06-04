@@ -78,6 +78,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +368,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
