@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -152,6 +153,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -222,6 +224,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +263,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
