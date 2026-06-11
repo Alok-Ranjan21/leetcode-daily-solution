@@ -80,6 +80,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -228,6 +229,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
