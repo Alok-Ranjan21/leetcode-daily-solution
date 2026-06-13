@@ -115,6 +115,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +445,7 @@
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
