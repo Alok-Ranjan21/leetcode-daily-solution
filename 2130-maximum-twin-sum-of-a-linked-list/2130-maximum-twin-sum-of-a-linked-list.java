@@ -4,13 +4,13 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        // Find middle
+        
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        // Reverse second half
+        
         ListNode prev = null;
         while (slow != null) {
             ListNode next = slow.next;
@@ -19,7 +19,7 @@ class Solution {
             slow = next;
         }
 
-        // Find maximum twin sum
+    
         int maxSum = 0;
         ListNode first = head;
         ListNode second = prev;
