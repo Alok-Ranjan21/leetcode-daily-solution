@@ -120,6 +120,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -451,6 +452,7 @@
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Doubly-Linked List
