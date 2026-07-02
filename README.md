@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -133,6 +134,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0001-two-sum/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0059-spiral-matrix-ii) |
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
