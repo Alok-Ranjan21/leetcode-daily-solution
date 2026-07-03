@@ -169,6 +169,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -338,6 +339,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
@@ -353,6 +355,7 @@
 | [0134-gas-station](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -372,6 +375,7 @@
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 | [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -398,6 +402,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -459,6 +464,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
