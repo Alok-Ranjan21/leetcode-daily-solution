@@ -201,6 +201,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -231,6 +232,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -407,6 +409,7 @@
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Design
@@ -443,11 +446,13 @@
 | [0133-clone-graph](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +484,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,4 +555,8 @@
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
