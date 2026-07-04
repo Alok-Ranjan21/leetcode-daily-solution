@@ -9,6 +9,7 @@
 | [0133-clone-graph](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -41,6 +42,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0146-lru-cache) |
@@ -53,6 +55,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0151-reverse-words-in-a-string) |
