@@ -28,6 +28,7 @@
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -207,6 +208,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -510,6 +512,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
