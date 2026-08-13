@@ -41,6 +41,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -109,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0206-reverse-linked-list) |
