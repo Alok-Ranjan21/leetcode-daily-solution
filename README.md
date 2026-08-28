@@ -45,6 +45,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -547,6 +548,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -555,6 +557,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -627,6 +630,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Shortest Path
@@ -668,4 +672,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
