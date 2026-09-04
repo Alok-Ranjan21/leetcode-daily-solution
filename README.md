@@ -258,6 +258,7 @@
 | [3838-weighted-word-mapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +415,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
