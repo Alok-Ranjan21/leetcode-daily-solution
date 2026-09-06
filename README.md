@@ -131,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -263,6 +264,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
