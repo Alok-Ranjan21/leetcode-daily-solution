@@ -117,6 +117,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3783-mirror-distance-of-an-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
