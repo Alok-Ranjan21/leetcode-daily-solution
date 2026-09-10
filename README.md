@@ -320,6 +320,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
@@ -339,6 +340,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -368,6 +370,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
