@@ -194,6 +194,7 @@
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -299,6 +300,7 @@
 | [0130-surrounded-regions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0835-image-overlap/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
