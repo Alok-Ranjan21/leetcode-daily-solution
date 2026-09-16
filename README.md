@@ -104,6 +104,7 @@
 | [0223-rectangle-area](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0223-rectangle-area) |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1927-sum-game/) | Medium |
@@ -284,6 +285,7 @@
 | [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
@@ -417,6 +419,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
@@ -696,6 +699,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Tournament Sort
 | Problem Name | Difficulty |
