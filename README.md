@@ -103,6 +103,7 @@
 | [0204-count-primes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0223-rectangle-area) |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1840-maximum-building-height/) | Hard |
@@ -627,6 +628,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0223-rectangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
