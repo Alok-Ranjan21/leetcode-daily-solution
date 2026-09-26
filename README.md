@@ -26,6 +26,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
@@ -155,6 +156,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -218,6 +220,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1840-maximum-building-height/) | Hard |
