@@ -156,6 +156,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1927-sum-game/) | Medium |
@@ -430,6 +431,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 ## Prefix Sum
@@ -731,4 +733,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
