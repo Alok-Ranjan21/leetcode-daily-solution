@@ -153,6 +153,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -434,6 +435,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
@@ -739,6 +741,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
