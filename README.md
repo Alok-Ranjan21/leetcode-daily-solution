@@ -141,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0020-valid-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
@@ -428,6 +429,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -741,6 +743,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
