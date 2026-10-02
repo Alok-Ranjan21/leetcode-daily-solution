@@ -142,6 +142,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0139-word-break) |
@@ -289,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -645,6 +647,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -744,6 +747,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
