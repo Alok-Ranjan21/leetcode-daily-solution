@@ -155,6 +155,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0856-score-of-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -440,6 +441,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0225-implement-stack-using-queues) |
 | [0856-score-of-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -470,6 +472,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -751,6 +754,7 @@
 | [0020-valid-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
