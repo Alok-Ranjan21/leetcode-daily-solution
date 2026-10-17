@@ -43,6 +43,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -281,6 +282,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -528,6 +530,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bucket Sort
