@@ -110,6 +110,7 @@
 | [0204-count-primes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1510-stone-game-iv/) | Hard |
@@ -224,6 +225,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0221-maximal-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0874-walking-robot-simulation) |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
@@ -526,6 +528,7 @@
 | [0179-largest-number](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
