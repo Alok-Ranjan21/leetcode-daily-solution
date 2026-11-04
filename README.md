@@ -42,6 +42,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -125,6 +126,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -286,6 +288,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -340,6 +343,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -649,6 +653,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -665,6 +670,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Quickselect
