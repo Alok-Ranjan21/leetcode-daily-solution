@@ -31,6 +31,7 @@
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -270,6 +271,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -548,6 +550,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -654,6 +657,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
