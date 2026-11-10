@@ -307,6 +307,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -352,6 +353,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
