@@ -117,6 +117,7 @@
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1872-stone-game-viii/) | Hard |
@@ -240,6 +241,7 @@
 | [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -339,6 +341,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
@@ -492,6 +495,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
