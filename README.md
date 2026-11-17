@@ -90,6 +90,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2540-minimum-common-value/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -190,6 +191,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -350,6 +352,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2573-find-the-string-with-lcp) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
