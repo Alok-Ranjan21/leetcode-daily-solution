@@ -182,6 +182,7 @@
 | [1871-jump-game-vii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
