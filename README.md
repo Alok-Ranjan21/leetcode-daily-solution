@@ -130,6 +130,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -297,6 +298,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -631,6 +633,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -639,6 +642,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -678,6 +682,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Alok-Ranjan21/leetcode-daily-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
